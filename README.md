@@ -31,7 +31,7 @@
   Node.js was implemented to help create this generator.
 
   ## Demo
-  [Video demonstration of command line application ](https://drive.google.com/file/d/1ipjnb_JT9qO0d7oosGUuqUxp6fZZjGOB/view)
+  [Video demonstration of command line application ](https://drive.google.com/file/d/1nvX8fjajOPESoOBHiy2bRl8_fu0aOiBZ/view)
   
   ## Contribution
   [University of Central Florida Coding Bootcamp](https://github.com/UCF-Coding-Boot-Camp)
